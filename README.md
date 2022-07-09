@@ -1,3 +1,0 @@
-# Lifehack-backend
-
-hihihi
